@@ -3,10 +3,10 @@
 
 module.exports = {
 
-    BOT_NAME: 'Melon',
-    BOT_TOKEN: 'MTM5MDY2Mzg3NzU0NDUwOTU4MA.GygZd0.uFaM4y32MfuyhMyxi5mhIlRWQQYkxYfQe_04qE',
-    CLIENT_ID: '1390663877544509580',
-    OWNER_ID: '1124248109472550993', // owner-only commands
+    BOT_NAME: 'GUARDX',
+    BOT_TOKEN: 'MTU0NTYyNTM2MzQ1Mzk3MjUwMg.G-9-RK.PjX-f-pOeW9J85oV5UZMZBKhNaQO6sAa5imOoE,
+    CLIENT_ID: '1545625363453972502',
+    OWNER_ID: '1407345119602020385', // owner-only commands
 
     PREFIX: ',', // default text command prefix
 
